@@ -1,0 +1,44 @@
+body{
+    background-color: #0E2894;
+}
+
+.page{
+    background-color: #F5F2E9;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .logo {
+    color: #0E2894;
+}
+
+.navbar .logo a{
+    color: #0E2894;
+    text-decoration: none;
+}
+
+.navbar .nav-links a {
+    color: #0E2894;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.navbar .nav-links a:hover {
+    color: #23221B;
+}
+
+.toptext{
+    color: #0E2894;
+}
+
+.content p{
+    color: #0E2894;
+}
+
+hr{
+    border: #0E2894 solid 1px;
+}
